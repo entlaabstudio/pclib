@@ -544,6 +544,7 @@ function fetch($res = null, $fmt = 'a')
  * @return array $rows = array($row_0, $row_1, $row_2, ...)
  * @see fetch()
 **/
+TODO: Tady
 function fetchAll($res = null, $fmt = 'a')
 {
 	$rows = array();
